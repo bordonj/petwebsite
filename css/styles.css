@@ -2,6 +2,11 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.jumbotron {
+  background-color: tomato;
+  margin-bottom: 0px;
+}
+
 h1 {
   color: white;
   background-color: tomato;
@@ -26,4 +31,8 @@ a:hover {
 
 .info {
   width: 60%;
+}
+
+.navbar {
+  width: 70%;
 }
