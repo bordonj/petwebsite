@@ -7,6 +7,10 @@ body {
   margin-bottom: 0px;
 }
 
+.zodiac {
+  background-color: rgb(221, 221, 221);
+}
+
 h1 {
   color: white;
   background-color: tomato;
