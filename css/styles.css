@@ -3,13 +3,27 @@ body {
 }
 
 h1 {
-  color: rgb(92, 56, 102);
-  background-color: yellow;
+  color: white;
+  background-color: tomato;
+  width: 70%;
 }
 
 .img {
   width: 200px;
   height: auto;
-  display: block;
+  float: left;
+  margin-right: 10px;
   border: 1px solid black;
+}
+
+a:link, a:visited {
+  color:tomato;
+}
+
+a:hover {
+  color: rgb(116, 118, 119);
+}
+
+.info {
+  width: 60%;
 }
