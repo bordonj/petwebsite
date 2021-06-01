@@ -2,6 +2,14 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.body2 {
+  background-color: black;
+  color:white;
+}
+.jumbotron2 {
+  color: black;
+}
+
 .jumbotron {
   background-color: tomato;
   margin-bottom: 0px;
@@ -48,8 +56,4 @@ a:hover {
 
 .navbar {
   width: 70%;
-}
-
-nav a:hover {
-  background-color: white;
 }
